@@ -1,0 +1,34 @@
+body{
+
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color:#3498DB  ;
+}
+.quem-somos{
+    background-color:#CACFD2 ;
+    
+    color :teal;
+}
+.margin{
+
+padding-bottom: 50px;
+padding-top: 10px;
+ 
+
+}
+.misao{
+    background-color:#F7F9F9;
+    color: teal;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.visao{
+    background-color: #CACFD2 ;
+    color: teal;
+    
+}
+.bg-footer{
+    background-color: black;
+    color: bisque;
+}
